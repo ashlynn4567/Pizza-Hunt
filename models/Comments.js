@@ -1,5 +1,5 @@
 // imports
-const router = require("express").Router();
+const { Schema, model } = require("mongoose");
 
 // create the comment schema to regulate data rules
 const CommentSchema = new Schema({
