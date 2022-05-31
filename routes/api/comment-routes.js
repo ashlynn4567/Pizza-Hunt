@@ -5,12 +5,12 @@ const { addComment, removeComment } = require("../../controllers/comment-control
 // post comment at /api/comments/:pizzaId
 router
     .route("/:pizzaId")
-    .post(addComment)
+    .post(addComment);
     
 // delete comment at /api/comments/:pizzaId/:commentId
 router
     .route("/:pizzaId/:commentId")    
-    .delete(removeComment)
+    .delete(removeComment);
 
 // exports
 module.exports = router;
