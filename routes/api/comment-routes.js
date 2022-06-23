@@ -7,12 +7,12 @@ const {
     removeReply
 } = require("../../controllers/comment-controller");
 
-// post comment at /api/comments/:pizzaId
+// create comment at /api/comments/:pizzaId
 router
     .route("/:pizzaId")
     .post(addComment);
     
-// delete comment at /api/comments/:pizzaId/:commentId
+// create or delete comment at /api/comments/:pizzaId/:commentId
 router
     .route("/:pizzaId/:commentId")
     .put(addReply)

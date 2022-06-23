@@ -8,13 +8,13 @@ const {
     deletePizza
 } = require("../../controllers/pizza-controller");
 
-// set up GET ALL and POST at /api/pizzas
+// get all pizzas and create a pizza at /api/pizzas
 router
     .route("/")
     .get(getAllPizza)
     .post(createPizza);
 
-// set up GET ONE, PUT, and DELETE at /api/pizzas/:id
+// get ONE, update, and delete a pizza at /api/pizzas/:id
 router
     .route("/:id")
     .get(getPizzaById)
