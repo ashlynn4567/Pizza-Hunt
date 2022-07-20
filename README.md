@@ -18,7 +18,7 @@ This is my eleventh project for the University of Oregon Coding Bootcamp 2022. I
 
 ## Deployed Site
 
-Follow [this link](https://intense-retreat-40554.herokuapp.com/) to view and use our site!
+Follow [this link](https://intense-retreat-40554.herokuapp.com/) to view and use my site!
 
 ## Features
 
@@ -125,7 +125,7 @@ In the future, I would like to add the following improvements:
 - A user-authentication system where users can sign in for personalized views of the site.
 - A way for users to save their favorite recipes under a separate menu that they can come back and view anytime.
 
-I'm always interested in refactoring code to improve it's functionality. If you would like to suggest your own improvements, you can reach our development team at the links below.
+I'm always interested in refactoring code to improve it's functionality. If you would like to suggest your own improvements, you can reach me at the links below.
 
 - <a href="mailto:ashlynn4567@gmail.com">Email</a>
 - <a href="https://github.com/ashlynn4567">GitHub</a>
