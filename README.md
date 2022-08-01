@@ -14,7 +14,7 @@
 
 ## Description
 
-This is my eleventh project for the University of Oregon Coding Bootcamp 2022. In this project, I was given the front-end of a website and a set of requirements to create the back-end api and database. I used MongoDB and Mongoose.js to create a social media recipe app where users can post their creative spins on pizza, add comments to recipes, and create threads within comments.
+Pizza Hunt is a full-stack application that uses MongoDB and Mongoose.js to create a social media recipe app where users can post their creative spins on pizza, add comments to recipes, and create threads within comments.
 
 ## Deployed Site
 
